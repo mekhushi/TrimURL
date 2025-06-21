@@ -24,7 +24,7 @@ Shortly is a simple, fast, and elegant URL shortening web app built with **Pytho
 ## ⚙️ How to Run
 
 ```bash
-git clone https://github.com/mekhushi/shortly.git
+git clone https://github.com/mekhushi/Trimurl.git
 cd url-shortener
 pip install -r requirements.txt
 python app.py
