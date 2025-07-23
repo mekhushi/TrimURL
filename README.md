@@ -1,4 +1,4 @@
-# 🔗 Shortly – URL Shortener
+# 🔗 TrimUrl – URL Shortener
 
 Shortly is a simple, fast, and elegant URL shortening web app built with **Python Flask** and **Tailwind CSS**. It allows users to convert long URLs into short, shareable links instantly.
 
